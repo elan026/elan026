@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @elan026
+- 👀 I’m interested in data scientist
+- 🌱 I’m currently learning deep learning
