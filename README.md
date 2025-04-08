@@ -86,8 +86,8 @@
 
 ## 🌐 Let's Connect
 
-- 📫 Email: [elan026@yourmail.com](mailto:elan026@yourmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/elan026](#)  
+- 📫 Email: [elan026@yourmail.com](mailto:elangokandhasamy284@gmail.com)  
+- 💼 LinkedIn: [www.linkedin.com/in/elango-kandhasamy-7a8a40347](#)
 - 💻 Portfolio (Coming soon...)
 
 ---
