@@ -88,7 +88,7 @@
 
 - 📫 Email: [elan026@yourmail.com](mailto:elangokandhasamy284@gmail.com)  
 - 💼 LinkedIn: [www.linkedin.com/in/elango-kandhasamy-7a8a40347](#)
-- 💻 Portfolio (Coming soon...)
+- 💻 Portfolio: [check it out!!](https://elan026.github.io/portfolio/)
 
 ---
 
