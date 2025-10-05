@@ -1,103 +1,70 @@
-# 👋 Hi, I'm Elango Kandhasamy
+# ⚡️ Zenitsu Mode: Elango Kandhasamy
 
-**AI & Software Developer** | Computer Vision | NLP | End-to-End Product Development  
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/demonslayer/images/6/61/Zenitsu_Agatsuma_Full_Body.png" alt="Zenitsu Agatsuma" height="200"/>
+</p>
+
+**AI & Software Developer** | Computer Vision | NLP | Lightning-fast Learner  
 Director & CTO at Levroun Enterprise  
 Pursuing B.Tech in Artificial Intelligence & Data Science (Batch 2027) at Nandha Engineering College
 
 ---
 
-## 🚀 About Me
+## 🙈 About Me
 
-I design and build intelligent, scalable applications that combine deep learning systems with modern web stacks.  
-My background spans machine learning, full-stack development, and product innovation.
+Like Zenitsu, I may seem nervous at first, but when it comes to building AI-powered applications, I strike like lightning!  
+Whether it’s deep learning or full-stack development, I face challenges head-on—sometimes with a little dramatic flair.
 
-- 🧠 Experience in Computer Vision, NLP, Generative AI
-- ⚡ Interests: Shipping production-ready features, mentoring, and translating real-world problems into AI products
-
----
-
-## 🎓 Education
-
-- **B.Tech, Artificial Intelligence & Data Science**  
-  Nandha Engineering College, Erode, Tamil Nadu  
-  *Expected Graduation: Sep 2027*
-
-- **High School**  
-  Lions Matric Higher Secondary School, Tamil Nadu
-
-Relevant coursework: ML, DL, CV, Data Structures & Algorithms, Cloud, Web Development
+- ⚡️ Expert in Computer Vision, NLP, Generative AI
+- ⚡️ Passionate about shipping production-ready features, mentoring, and turning real-world problems into AI products
 
 ---
 
-## 🛠️ Core Tools & Technologies
+## 🛌 Zenitsu’s Sleep Mode: Hidden Talents
 
-**Languages:** Python, Java, JavaScript, SQL  
-**ML/DL:** TensorFlow, Keras, PyTorch, OpenCV, scikit-learn, YOLOv5, LangChain  
-**Web & Backend:** Flask, FastAPI, React, Express, Node, Django, Streamlit  
-**Databases:** PostgreSQL, MongoDB  
-**DevOps & Tools:** Git/GitHub, Docker, Replit, Lovable, n8n, CrewAI, Hugging Face, AWS, Heroku, Power BI, Tableau
+Even when things get tough, I let my skills shine:
+- **Languages:** Python, Java, JavaScript, SQL  
+- **ML/DL:** TensorFlow, Keras, PyTorch, OpenCV, scikit-learn, YOLOv5, LangChain  
+- **Web & Backend:** Flask, FastAPI, React, Express, Node, Django, Streamlit  
+- **Databases:** PostgreSQL, MongoDB  
+- **DevOps & Tools:** Git/GitHub, Docker, Hugging Face, AWS, Heroku, Power BI, Tableau
 
 ---
 
-## 💼 Work Experience
+## 💨 Thunder Breathing: Projects
 
-**Director & Chief Technology Officer**  
-Levroun Enterprise • Erode, Tamil Nadu  
-*Apr 2025 – Present*  
-- Defining tech vision and strategy
-- Overseeing product development
-- Leading innovation and cross-functional collaboration
+- **Speech-to-Text Web App:**  
+  Converts live speech to text, with deep learning enhancements  
+  _Tech:_ Flask, WebSpeech API, Python
 
-**AI/ML Intern**  
-ShenAi Private Solutions • Erode, Tamil Nadu  
-*Aug 2024 – Oct 2024*  
-- Contributed to Speech-to-Text project using deep learning
-- Curated datasets, ran experiments, and improved model accuracy
+- **Plate Vision: ALPR:**  
+  Lightning-fast license plate recognition pipeline  
+  _Tech:_ YOLOv5, CNN, Flask, Python
 
-**Achievements:**  
+- **AI-Based M-Sand Quality Monitoring:**  
+  Classifies M-Sand quality from images  
+  _Tech:_ React, Flask, Custom CNN
+
+---
+
+## 🏆 Achievements
+
 - 🥉 3rd Place — Innovation Day 2025 (Speech-to-Text App)
-- 🎤 Live Speech-to-Text AI project ([demo at elan.ds, 2025](#))
+- 🎤 Built live Speech-to-Text AI ([demo at elan.ds, 2025](#))
+- 🌩️ Organizer, Film Workshop 2025 (70+ participants)
+- 🌸 Joint Secretary — Cultural Club (2025–26)
 
 ---
 
-## 🧩 Projects
+## 💬 Contact Me
 
-### 1. Speech-to-Text Web Application
-- Built with Flask
-- Converts live speech to text, integrates deep learning model improvements
-- Tech: Flask, WebSpeech API, Python
-
-### 2. Plate Vision: ALPR
-- End-to-end pipeline for automatic license plate recognition
-- YOLOv5 + OCR via CNN
-- Tech: YOLOv5, CNN, Flask, Python
-
-### 3. AI-Based M-Sand Quality Monitoring
-- Classifies M-Sand quality from images
-- Frontend in React, backend in Flask
-- Custom CNN
-
----
-
-## 🏅 Skills & Activities
-
-- **Languages:** Python, Java, JavaScript, SQL
-- **ML/DL:** TensorFlow, Keras, PyTorch, OpenCV, scikit-learn, YOLOv5, LangChain
-- **Web & Backend:** Flask, FastAPI, React, Express, Node, PostgreSQL, MongoDB, Django, Streamlit
-- **Tools/Infra:** Git/GitHub, Docker, PowerBI, Tableau, Replit, n8n, CrewAI, Hugging Face, AWS, Heroku
-- **Leadership:**  
-  - Innovation Day Winner — 3rd Place  
-  - Organizer, Film Workshop 2025 (70+ participants)  
-  - Joint Secretary — Cultural Club (2025–26)
-- **Interests:** Football, art & poster designing
-
----
-
-## 📬 Get in Touch
+Like Zenitsu calling for help, you can always reach out!
 
 - **Email:** [elangokandhasamy76@gmail.com](mailto:elangokandhasamy76@gmail.com)
 - **Phone:** +91 9123578496
 
 ---
 
-© 2025, [elan026.dev](https://elan026.dev)
+<p align="center">
+  <b>“No matter how scared I am, I’ll always do my best!”</b>
+</p>
