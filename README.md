@@ -55,6 +55,9 @@ Even when things get tough, I let my skills shine:
 - 🌸 Joint Secretary — Cultural Club (2025–26)
 
 ---
+![elan026's Stats](https://github-readme-stats.vercel.app/api?username=elan026&theme=dark&show_icons=true&hide_border=false&count_private=true)
+---
+
 
 ## 💬 Contact Me
 
