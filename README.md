@@ -1,7 +1,7 @@
-# ⚡️ Zenitsu Mode: Elango Kandhasamy
+# ⚡️ Zenitsu Mode: elan!!
 
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/demonslayer/images/6/61/Zenitsu_Agatsuma_Full_Body.png" alt="Zenitsu Agatsuma" height="200"/>
+  <img src="https://cdn.wallpapersafari.com/90/45/Ajn4yi.jpg" alt="Zenitsu Agatsuma" height="200"/>
 </p>
 
 **AI & Software Developer** | Computer Vision | NLP | Lightning-fast Learner  
