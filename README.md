@@ -1,73 +1,90 @@
-# ⚡️ Zenitsu Mode: elan!!
+# ~e!an (elan026) — Where AI Meets Art
 
-<p align="center">
-  <img src="https://cdn.wallpapersafari.com/90/45/Ajn4yi.jpg" alt="Zenitsu Agatsuma" height="200"/>
-</p>
+![AI Developer Banner](https://elango-kandhasamy.vercel.app/banner.png) <!-- Add your own banner or an eye-catching image -->
 
-**AI & Software Developer** | Computer Vision | NLP | Lightning-fast Learner  
-Director & CTO at Levroun Enterprise  
-Pursuing B.Tech in Artificial Intelligence & Data Science (Batch 2027) at Nandha Engineering College
+> “I don’t just cook code, I sketch chaos.” 👨‍💻🎨  
+> AI models in the lab, pencil portraits on the canvas. Call me Heisenberg, but with Git commits.
 
 ---
 
-## 🙈 About Me
+## ⚡️ Zenitsu Mode: Meet elan!!
 
-Like Zenitsu, I may seem nervous at first, but when it comes to building AI-powered applications, I strike like lightning!  
-Whether it’s deep learning or full-stack development, I face challenges head-on—sometimes with a little dramatic flair.
+**AI & Software Developer | Computer Vision | NLP | Full-Stack ⚡️**  
+Director & CTO, Levroun Enterprise  
+B.Tech Artificial Intelligence & Data Science, 2027  
+Nandha Engineering College
+
+---
+
+### 🙈 About Me
+
+Like Zenitsu, I may seem nervous at first, but when it comes to building AI-powered stuff, I strike like lightning!  
+Whether it’s deep learning or full-stack dev, I take on every challenge—sometimes with a dramatic flair.
 
 - ⚡️ Expert in Computer Vision, NLP, Generative AI
-- ⚡️ Passionate about shipping production-ready features, mentoring, and turning real-world problems into AI products
+- 🎯 Passionate about shipping production-ready features, mentoring, and turning real-world problems into AI products
+- 🎨 Artist and organizer: blending technology with creativity
 
 ---
 
-## 🛌 Zenitsu’s Sleep Mode: Hidden Talents
+### 🛌 Zenitsu’s Sleep Mode: Skills Unleashed
 
-Even when things get tough, I let my skills shine:
-- **Languages:** Python, Java, JavaScript, SQL  
-- **ML/DL:** TensorFlow, Keras, PyTorch, OpenCV, scikit-learn, YOLOv5, LangChain  
-- **Web & Backend:** Flask, FastAPI, React, Express, Node, Django, Streamlit  
-- **Databases:** PostgreSQL, MongoDB  
-- **DevOps & Tools:** Git/GitHub, Docker, Hugging Face, AWS, Heroku, Power BI, Tableau
+**Languages:** Python, Java, JavaScript, SQL  
+**Frameworks/ML:** TensorFlow, Keras, PyTorch, OpenCV, scikit-learn, YOLOv5, LangChain  
+**Web/Backend:** Flask, FastAPI, React, Express, Node, Django, Streamlit  
+**Databases:** PostgreSQL, MongoDB  
+**DevOps/Tools:** Git & GitHub, Docker, Hugging Face, AWS, Heroku, Power BI, Tableau
 
 ---
 
-## 💨 Thunder Breathing: Projects
+### 💨 Thunder Breathing: Projects
 
-- **Speech-to-Text Web App:**  
-  Converts live speech to text, with deep learning enhancements  
+- **[Speech-to-Text Web App](https://github.com/elan026/S2T):** Converts live speech to text, enhanced by deep learning  
   _Tech:_ Flask, WebSpeech API, Python
-
-- **Plate Vision: ALPR:**  
-  Lightning-fast license plate recognition pipeline  
+- **[Plate Vision: ALPR](https://github.com/elan026/Plate-Vision):** Lightning-fast license plate recognition  
   _Tech:_ YOLOv5, CNN, Flask, Python
-
-- **AI-Based M-Sand Quality Monitoring:**  
-  Classifies M-Sand quality from images  
+- **[AI-Based M-Sand Quality Monitoring](https://github.com/elan026/M-Sand-Quality-Monitoring-System):** Classifies M-Sand quality from images  
   _Tech:_ React, Flask, Custom CNN
 
+_Discover more projects in my pinned repos!_
+
 ---
 
-## 🏆 Achievements
+### 🏆 Achievements
 
 - 🥉 3rd Place — Innovation Day 2025 (Speech-to-Text App)
-- 🎤 Built live Speech-to-Text AI ([demo at elan.ds, 2025](#))
+- 🎤 Built and demoed live Speech-to-Text AI (2025)
 - 🌩️ Organizer, Film Workshop 2025 (70+ participants)
-- 🌸 Joint Secretary — Cultural Club (2025–26)
+- 🌸 Joint Secretary, Cultural Club (2025–26)
 
 ---
-![elan026's Stats](https://github-readme-stats.vercel.app/api?username=elan026&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
+### 🌱 What’s Next?
+
+- Exploring generative AI use-cases for real-world productivity
+- Developing open-source contributions for AI communities
+- Sketching new visions—both on canvas and in code
+
 ---
 
-
-## 💬 Contact Me
+### 💬 Connect With Me
 
 Like Zenitsu calling for help, you can always reach out!
 
-- **Email:** [elangokandhasamy76@gmail.com](mailto:elangokandhasamy76@gmail.com)
+- **Email:** elangokandhasamy76@gmail.com
+- **Portfolio:** [Live]([https://elan026.netlify.app](https://elango-kandhasamy.vercel.app))
 - **Phone:** +91 9123578496
 
 ---
 
+> “No matter how scared I am, I’ll always do my best!”  
+
+---
+
+<!-- Optionally add GitHub Stats Widgets -->
+
 <p align="center">
-  <b>“No matter how scared I am, I’ll always do my best!”</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=elan026&show_icons=true&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elan026&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elan026&layout=compact&theme=react" />
 </p>
