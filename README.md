@@ -1,6 +1,6 @@
 # ~e!an (elan026) — Where AI Meets Art
 
-![AI Developer Banner](https://www.canva.com/design/DAGzt545ryc/-9job6dFSZ78WwZrI1l1vg/view?utm_content=DAGzt545ryc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h594cbb27bc) <!-- Add your own banner or an eye-catching image -->
+![AI Developer Banner](Hello, this is elan.png) <!-- Add your own banner or an eye-catching image -->
 
 > “I don’t just cook code, I sketch chaos.” 👨‍💻🎨  
 > AI models in the lab, pencil portraits on the canvas. Call me Heisenberg, but with Git commits.
