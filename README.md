@@ -72,7 +72,7 @@ _Discover more projects in my pinned repos!_
 Like Zenitsu calling for help, you can always reach out!
 
 - **Email:** elangokandhasamy76@gmail.com
-- **Portfolio:** [Live]([https://elan026.netlify.app](https://elango-kandhasamy.vercel.app))
+- **Portfolio:** [see!!] (([https://elan026.netlify.app](https://elango-kandhasamy.vercel.app))
 - **Phone:** +91 9123578496
 
 ---
