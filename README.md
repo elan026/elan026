@@ -135,21 +135,7 @@ Stack: React + Flask + SQLite + ML
 
 ---
 
-## 🧭 Philosophy
 
-> “A model is useful only when it works in production.”
-
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://github.com/elan026">GitHub</a> • 
-  <a href="https://leetcode.com/u/elan026">LeetCode</a> • 
-  <a href="https://linkedin.com/in/elango-kandhasamy">LinkedIn</a>
-</p>
-
----
 
 <!-- SNAKE -->
 
