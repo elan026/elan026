@@ -1,81 +1,164 @@
-# ~e!an (elan026) — Where AI Meets Art
+<!-- HERO -->
 
-!([AI Developer Banner](https://drive.google.com/file/d/1yl9WZX3Q7LELeLZysU06RIDkmLXbrbvM/view?usp=sharing)) <!-- Add your own banner or an eye-catching image -->
+<h1 align="center">Elan K</h1>
+<h3 align="center">AI & Data Science Engineer • Full-Stack Developer • Systems Builder</h3>
 
-> “I don’t just cook code, I sketch chaos.” 👨‍💻🎨  
-> AI models in the lab, pencil portraits on the canvas. Call me Heisenberg, but with Git commits.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Full-Stack+Developer;Building+Real-Time+Intelligent+Systems;From+Data+→+Models+→+Production;Learn+→+Build+→+Scale" />
+</p>
 
----
-
-## ⚡️ Zenitsu Mode: Meet elan!!
-
-**AI & Software Developer | Computer Vision | NLP | Full-Stack ⚡️**  
-Director & CTO, Levroun Enterprise  
-B.Tech Artificial Intelligence & Data Science, 2027  
-Nandha Engineering College
-
----
-
-### 🙈 About Me
-
-Like Zenitsu, I may seem nervous at first, but when it comes to building AI-powered stuff, I strike like lightning!  
-Whether it’s deep learning or full-stack dev, I take on every challenge—sometimes with a dramatic flair.
-
-- ⚡️ Expert in Computer Vision, NLP, Generative AI
-- 🎯 Passionate about shipping production-ready features, mentoring, and turning real-world problems into AI products
-- 🎨 Artist and organizer: blending technology with creativity
+<p align="center">
+  <a href="https://github.com/elan026">GitHub</a> • 
+  <a href="https://leetcode.com/u/elan026">LeetCode</a> • 
+  <a href="https://linkedin.com/in/elango-kandhasamy">LinkedIn</a>
+</p>
 
 ---
 
-### 🛌 Zenitsu’s Sleep Mode: Skills Unleashed
+## 🧠 Profile
 
-**Languages:** Python, Java, JavaScript, SQL  
-**Frameworks/ML:** TensorFlow, Keras, PyTorch, OpenCV, scikit-learn, YOLOv5, LangChain  
-**Web/Backend:** Flask, FastAPI, React, Express, Node, Django, Streamlit  
-**Databases:** PostgreSQL, MongoDB  
-**DevOps/Tools:** Git & GitHub, Docker, Hugging Face, AWS, Heroku, Power BI, Tableau
+```diff
++ AI & Data Science student with real-world project experience
++ Strong in Python, Java, and full-stack development
++ Built & deployed AI systems (Computer Vision, Speech, IoT)
++ Comfortable with Linux, APIs, and production environments
+```
 
----
-
-### 💨 Thunder Breathing: Projects
-
-- **[Speech-to-Text Web App](https://github.com/elan026/S2T):** Converts live speech to text, enhanced by deep learning  
-  _Tech:_ Flask, WebSpeech API, Python
-- **[Plate Vision: ALPR](https://github.com/elan026/Plate-Vision):** Lightning-fast license plate recognition  
-  _Tech:_ YOLOv5, CNN, Flask, Python
-- **[AI-Based M-Sand Quality Monitoring](https://github.com/elan026/M-Sand-Quality-Monitoring-System):** Classifies M-Sand quality from images  
-  _Tech:_ React, Flask, Custom CNN
-
-_Discover more projects in my pinned repos!_
+I focus on building **end-to-end intelligent systems** —
+not just models, but **complete pipelines from data → inference → deployment**.
 
 ---
 
-### 🏆 Achievements
+## 🛠️ Tech Stack
 
-- 🥉 3rd Place — Innovation Day 2025 (Speech-to-Text App)
-- 🎤 Built and demoed live Speech-to-Text AI (2025)
-- 🌩️ Organizer, Film Workshop 2025 (70+ participants)
-- 🌸 Joint Secretary, Cultural Club (2025–26)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,flask,spring,mysql,mongodb,linux,docker,git" />
+</p>
 
----
-
-### 🌱 What’s Next?
-
-- Exploring generative AI use-cases for real-world productivity
-- Developing open-source contributions for AI communities
-- Sketching new visions—both on canvas and in code
+**AI/ML:** TensorFlow • PyTorch • scikit-learn • OpenCV
+**Backend:** Flask • FastAPI • Spring Boot • REST APIs
+**Frontend:** React • HTML • CSS • Bootstrap
+**DevOps:** Linux • Docker • Vercel • Netlify • Streamlit
 
 ---
 
-### 💬 Connect With Me
+## 🚀 Key Projects
 
-Like Zenitsu calling for help, you can always reach out!
+### 🔊 Speech-to-Text Web Application
 
-- **Email:** elangokandhasamy76@gmail.com
-- **Portfolio:** [see!!] (([https://elan026.netlify.app](https://elango-kandhasamy.vercel.app))
-- **Phone:** +91 9123578496
+```yaml
+Stack: Flask + WebSpeech API
+```
+
+* Built a real-time speech recognition system
+* Optimized backend for low-latency transcription
+* Applied during internship-level work
 
 ---
+
+### 🚗 Plate Vision — AI License Plate Recognition
+
+```yaml
+Stack: YOLOv5 + OpenCV + Flask + Linux (GPU)
+```
+
+* Developed ALPR system using deep learning
+* Deployed in GPU-enabled Linux environment
+* Real-time vehicle detection via API integration
+
+---
+
+### 🏭 AI-Powered IoT System (M-Sand Quality Monitoring)
+
+```yaml
+Stack: React + Flask + SQLite + ML
+```
+
+* Image-based quality classification system
+* Integrated IoT + AI pipeline
+* Real-time prediction with full-stack architecture
+
+---
+
+## 💼 Experience
+
+### 🧪 Project Intern — ShenAi Private Solutions
+
+* Worked on **Speech-to-Text deep learning system**
+* Handled preprocessing pipelines & model integration
+* Improved transcription efficiency using Python
+
+---
+
+### 📊 Data Analyst Intern — SAN Technovation
+
+* Cleaned & analyzed datasets using Python & SQL
+* Built dashboards for business insights
+* Delivered actionable data-driven reports
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elan026&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elan026&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+
+---
+
+## 🧩 Problem Solving
+
+* Solved **150+ DSA problems** on LeetCode
+* Strong focus on **logic, patterns & optimization**
+
+---
+
+## 🏆 Achievements
+
+* 🥉 3rd Place — Innovation Day 2025 (Speech-to-Text App)
+* 📜 AI Prompt Engineering (Google)
+* 📊 Power BI Workshop (Data Analytics)
+
+---
+
+## 🎯 Current Focus
+
+```bash
+> Scaling AI systems to production
+> System design + backend architecture
+> Building developer-centric tools
+```
+
+---
+
+## 🧭 Philosophy
+
+> “A model is useful only when it works in production.”
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://github.com/elan026">GitHub</a> • 
+  <a href="https://leetcode.com/u/elan026">LeetCode</a> • 
+  <a href="https://linkedin.com/in/elango-kandhasamy">LinkedIn</a>
+</p>
+
+---
+
+<!-- SNAKE -->
+
+<p align="center">
+  <img src="https://github.com/elan026/elan026/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+
+
 
 > “No matter how scared I am, I’ll always do my best!”  
 
