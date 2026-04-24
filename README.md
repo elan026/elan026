@@ -1,6 +1,6 @@
 <!-- HERO -->
 
-<h1 align="center">Elan K</h1>
+<h1 align="center">Elango Kandhasamy</h1>
 <h3 align="center">AI & Data Science Engineer • Full-Stack Developer • Systems Builder</h3>
 
 <p align="center">
@@ -161,13 +161,3 @@ Stack: React + Flask + SQLite + ML
 
 
 > “No matter how scared I am, I’ll always do my best!”  
-
----
-
-<!-- Optionally add GitHub Stats Widgets -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elan026&show_icons=true&theme=react" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elan026&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elan026&layout=compact&theme=react" />
-</p>
